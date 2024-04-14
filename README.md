@@ -16,15 +16,20 @@ Este es un proyecto de una agenda de contactos para Android, como parte de la as
 ## Capturas de Pantalla
 
 Capturas de pantalla de la aplicación en acción:
-
-![Imagen 1](img/1.png)
 *Pantalla de inicio de la Agenda de Contactos*
+![Imagen 1](img/1.png)
 
-![Imagen 2](img/2.png)
 *Agregar un nuevo contacto*
+![Imagen 2](img/2.png)
 
-![Imagen 3](img/3.png)
 *Agregar de nuevo un contacto previamente existente*
+![Imagen 3](img/3.png)
 
-![Imagen 4](img/4.png)
 *Buscar un contacto existente y vista de lista de contactos*
+![Imagen 4](img/4.png)
+
+*Usuario no encontrado*
+![Imagen 4](img/5.png)
+
+*Actualizar información del contacto*
+![Imagen 4](img/6.png)
