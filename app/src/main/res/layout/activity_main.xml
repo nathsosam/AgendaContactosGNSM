@@ -52,6 +52,7 @@
         android:layout_marginStart="48dp"
         android:layout_marginTop="88dp"
         android:text="Nombres"
+        android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/lblTitulo" />
 
@@ -74,6 +75,7 @@
         android:layout_marginStart="52dp"
         android:layout_marginTop="47dp"
         android:text="Email"
+        android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/lblNombres" />
 
@@ -96,6 +98,7 @@
         android:layout_marginStart="48dp"
         android:layout_marginTop="44dp"
         android:text="Telefono"
+        android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/lblEmail" />
 
@@ -137,6 +140,7 @@
         android:layout_marginStart="26dp"
         android:layout_marginTop="27dp"
         android:text="Lista de contactos"
+        android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnGuardar" />
 
