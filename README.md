@@ -1,7 +1,6 @@
 # Universidad Técnica del Norte - Agenda de Contactos GNSM
 
 **Nombre:** Geraldyne Nathaly Sosa Mediavilla  
-**Fecha:** 15 de abril de 2024
 **Materia:** Aplicaciones Móviles
 **Docente:** MSc. Diego Trejo
 
